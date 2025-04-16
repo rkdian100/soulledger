@@ -69,3 +69,6 @@ Raj Kamal Das
 Freelancer • Developer • Spiritual Technologist
 📧 rajkamaldas100@gmail.com
 🌍 Assam, India
+
+
+#python #sqlalchemy #cli #sqlite #selftracker #journal
