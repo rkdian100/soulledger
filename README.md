@@ -1,5 +1,10 @@
 # 🧠 SoulLedger
 
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue)
+![Built with SQLAlchemy](https://img.shields.io/badge/ORM-SQLAlchemy-red)
+![Database-SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey)
+![CLI Tool](https://img.shields.io/badge/interface-Terminal%20CLI-yellow)
+
 **SoulLedger** is a terminal-based journaling system built using Python, SQLAlchemy, and SQLite.  
 It allows users to log emotional entries, tag them with keywords, and explore their personal growth through structured data.
 
@@ -43,3 +48,24 @@ python seed.py
 
 # Launch CLI
 python main.py
+
+📈 Future Roadmap
+
+Add Rich-powered CLI UI
+
+Entry deletion + filtering
+
+Export to JSON/Markdown
+
+Weekly summary & emotional analysis
+
+Login system + password auth
+
+    Web or TUI interface
+
+👤 Author
+
+Raj Kamal Das
+Freelancer • Developer • Spiritual Technologist
+📧 rajkamaldas100@gmail.com
+🌍 Assam, India
