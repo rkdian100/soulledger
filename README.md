@@ -70,5 +70,6 @@ Freelancer • Developer • Spiritual Technologist
 📧 rajkamaldas100@gmail.com
 🌍 Assam, India
 
+## 🏷️ Tags
 
-#python #sqlalchemy #cli #sqlite #selftracker #journal
+`#python` `#sqlalchemy` `#cli` `#sqlite` `#selftracker` `#journal`
